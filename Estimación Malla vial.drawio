@@ -1,0 +1,750 @@
+<mxfile host="app.diagrams.net" modified="2023-10-11T19:55:34.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="T9LmHlSeHb0h4ywdioru" version="22.0.4" type="github">
+  <diagram name="Página-1" id="KQURef7OF_sbYggJzPEF">
+    <mxGraphModel dx="2062" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-1" value="" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="204.5" y="5673" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-2" value="&lt;span style=&quot;&quot; lang=&quot;ES&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Modelo de información del territorio&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="20" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-3" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Situación actual&lt;/h1&gt;&lt;p style=&quot;margin-top:3.0pt;mso-add-space:auto;&lt;br/&gt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;/p&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;ul&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;Deterioro en relacionamiento con municipios del área metropolitana del&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;valle de Aburrá y del valle de San Nicolás por las intervenciones en la malla&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;vial y su posterior pavimentación.&lt;/span&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i style=&quot;text-align: justify; background-color: initial; text-indent: -18pt;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;Falta de mecanismos centralizados para atender nuevos requerimientos de&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;información de los distintos grupos de interés en el territorio.&lt;/span&gt;&lt;/i&gt;&lt;/li&gt;&lt;li&gt;&lt;i style=&quot;text-align: justify; background-color: initial; text-indent: -18pt;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;Ausencia de un equipo especializado que se encargue de forma integral de&amp;nbsp;&lt;/span&gt;&lt;/i&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;span style=&quot;font-family: Arial, sans-serif;&quot; lang=&quot;ES&quot;&gt;la información del territorio.&lt;/span&gt;&lt;/i&gt;&lt;/li&gt;&lt;/font&gt;&lt;/ul&gt;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="80" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-4" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;Escenario óptimo&lt;/h1&gt;&lt;p style=&quot;margin-top:3.0pt;mso-add-space:auto;&lt;br/&gt;text-align:justify;text-indent:-18.0pt;mso-list:l0 level1 lfo1;tab-stops:list 36.0pt&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;/p&gt;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&lt;ul&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;font style=&quot;&quot; face=&quot;Arial, sans-serif&quot;&gt;Obtener sinergias entre gobierno, sociedad, empresas y el grupo EPM.&lt;/font&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Mejorar los flujos de trabajo y la integración de los datos entre los distintos actores del territorio&lt;/li&gt;&lt;li style=&quot;text-indent: -24px;&quot;&gt;&amp;nbsp; &amp;nbsp;Tomar mejores decisiones a la hora de planificar, diseñar, construir y explotar la infraestructura en los territorios.&lt;/li&gt;&lt;li style=&quot;text-indent: -24px;&quot;&gt;&amp;nbsp; &amp;nbsp;Construir infraestructuras más conectadas, resilientes y sostenibles.&amp;nbsp;&lt;/li&gt;&lt;/font&gt;&lt;/ul&gt;&lt;/i&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="80" width="380" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-5" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="390" as="sourcePoint" />
+            <mxPoint x="1460" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-6" value="¿Cómo?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-7" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Facilitar la visualización conjunta de las redes de dichos servicios, junto con los planes de ordenamiento territorial, proyectos e intervenciones a la malla vial por parte de los municipios; con el fin de ofrecer la facilidad de coordinar las intervenciones a la malla vial y de este modo trabajar de manera conjunta con los entes territoriales.&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="360" width="340" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-8" value="HU02&lt;i&gt;Funcionalidad&lt;br&gt;cargue y actualización de información al modelo&lt;/i&gt;&lt;br&gt;(Acueducto y alcantarillado)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="331" y="10" width="239" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-9" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="271" y="105" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAb1BMVEUAAAD////Dw8Pf39/k5OSlpaWtra309PSLi4uSkpJKSkqHh4djY2PGxsbKysrz8/Pt7e01NTVYWFi2trY/Pz9dXV2qqqqdnZ2AgIBBQUHU1NTh4eElJSUVFRUrKytoaGhycnIyMjINDQ0bGxt6enpw3qhqAAAEfUlEQVR4nO3d627iMBCG4UnLGQqFUA6lLdBy/9e4rNarEsg48djxONH3/uxK3jyF4mBHMmVBehqtPsmrQ2G8+XibzxdBLo0CjDHc+eEehbN/P1tuh/5XF0A4COArCp9+f7zzNvoLZ0GABeH49h+ePK/PW7gPA+SFNPa7QF/hKhDQIqSZ1xV6CrehgDYhnX0+Vf2Eh2BAq5DoXUv4FktIAx3hazhglZB2KsJwf4XVQlppCCcxhfTdiy8MCKwhFE7+PsKQf4a1hLSNLAw4V9QU0jGu8Dm+kJbOd+JtE7pP/u0TUt55IU07L3Sb/FsppJ/XrguJ5p0XUr/zQjp1XkjrepN/i4VEz50X1pr82y2kUeeF9NZ5IX1UTf7Vwl4+mk3+t74dLwlh5ZeNKmG+LA53u1aSiLBi8rcL5z/3o6UopItYOH0cLEkh7YXCshXtNIW0FAmPZUMlKrTMGrywfEE7VSF/e8MKe+UDJSv8dBYym9eNCW/vovuSAbgXkRMyL2Fzwtsv7S+SAbjFG07IvVEaExZeAtEIjsIvZpjGhIUlwpFkBGZrihEu6gwTVLgu/P8fghGY+1NGyF58Y0IqPI0g2dZilt8Y4Zwbpjlhcad+4b77yizbMMInbpjmhOu7S5gf3d6qL+WShIQl77Jh/fgnbhIS3r+IgUpISJvOC8lhv6WlQsu3vI4Ia6wNtl3o+aBlG4R0DvBkd9pC/6ee0xfSW9iP1ASFRKda22ZtFl7vb/rBkIkK/7afXUYOTZnfScJC15iPKAjvg1AxCCE0QagYhBCaIFQMQghNECoGIYQmCBWDEEIThIpBCKEJQsUghNAEoWIQQmiCUDEIITRBqBiEEJogVAxCCE0QKgYhhCYIFYMQQhOEikEIoQlCxSCE0AShYhBCaIJQMQghNEGoGIQQmiBUDEIITRAqBiGEJggVgxBCE4SKQQihCULFIITQBKFiEEJoglAxCCE0QagYhBCaIFQMQghNECoGoUB4iHn91THHA/oIJQdNNpjbKZ21hLIjXxurV07xEi5jAiorl/gJdzEBVR2bELLnsWrEnWbmJRQd29tQrieP1xTmMQ32XE+PrynM9jERtvYc0FeYzJTIn7fnKUzlw4aZ7UMIZWfZh84C9Bdmz+ofqF/WIyH9hVm2jcl5bGvzuQtLDxkcbtXu3yaDsgvyETKH0F/frC+DfuQ2+XuNk2ddhf3qIRPLVbiKe3kBchVS8BOJm85Z2Lq3qbOQ+6KZbO7CadwL9M5daL1FSjCBkFvySTSJsPzGJtVEQtrEvUivZEKatOePUSi8GvOWzP1i4bX1aTyI2Ya97W9KGL1d54Wimw0IkwpCCCHUD0IXYSLbEXeNAgoTe1TGJFojYoTJ7JoV4jayJcLsU1tT1iKkMKnHLEz8Pq9E+K7NKUm2ssAuf661PY+JgLwwvfmich/NUZidtEV3SfeELC/9WdtU6Fu6LGQRLrRRhax79UJhtkjn08b+MIJYmM6seBH7qoTZ4aiNuzbz2kWonGQW+UXzQdnzKRfdq/32ByGIaNHz9WJ5AAAAAElFTkSuQmCC;" vertex="1" parent="1">
+          <mxGeometry x="401" y="95" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-11" value="MDA" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="541" y="105" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-12" value="Modelo digital de Aguas (Acueducto y Alcantarillado)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="261" y="205" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-13" value="Reutiliza el MDA para este fin específico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="391" y="195" as="sourcePoint" />
+            <mxPoint x="491" y="195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-15" value="Reutiliza" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="VaUqc74PP2qwAAMpVHkm-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unite.ai/wp-content/uploads/2023/01/etl-1-990x600.png;" vertex="1" parent="1">
+          <mxGeometry x="359" y="235" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-17" value="ETL que en un periodo que está &lt;b&gt;sin definir&lt;/b&gt;, se actualiza el MDA, con todos sus estados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="330" width="362.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="265" as="sourcePoint" />
+            <mxPoint x="391" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="461" y="265" as="sourcePoint" />
+            <mxPoint x="551" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-20" value="En esta sincronización, se trae la información&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="307.25" y="370" width="262.75" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-21" value="Elementos en fase de:&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354.5" y="410" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-22" value="&lt;h1&gt;Planeación&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;Se propone utilizar la fecha estimada de la instalación que viene en el MDA (Se poblaría con la &lt;b&gt;FPO&lt;/b&gt;: Fecha estimada de puesta en operación).&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-214.5" y="496" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-23" value="En el modelo, existen dos&amp;nbsp;&lt;br&gt;campo&amp;nbsp; fechas, que son probables&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;de ser reutilizadas (Definir si se reutiliza o se crea un campo nuevo), eso lo define la unidad de gestión de información del negocio." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="-24.5" y="310" width="254.5" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-24" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-22" target="VaUqc74PP2qwAAMpVHkm-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="705" as="sourcePoint" />
+            <mxPoint x="470" y="655" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-163" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-25" target="VaUqc74PP2qwAAMpVHkm-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="85" y="460" />
+              <mxPoint x="103" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-25" value="&lt;h1&gt;Diseño&lt;/h1&gt;&lt;div&gt;Para este estado, se propone utilizar la fecha estimada de la instalación, igual al campo que existe en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="506" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-26" value="&lt;h1&gt;Construcción&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="516" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-27" value="&lt;h1&gt;Operación&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de instalación que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351" y="516" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.618;entryY=0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="265.5" y="418.59" as="sourcePoint" />
+            <mxPoint x="7" y="509.9973550212165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-29" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="321.63" y="460" as="sourcePoint" />
+            <mxPoint x="181.38" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.434;entryY=-0.026;entryDx=0;entryDy=0;endWidth=20;endSize=4.45;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="313.69" y="440" as="sourcePoint" />
+            <mxPoint x="255.69" y="465" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-31" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="391" y="480" as="sourcePoint" />
+            <mxPoint x="140" y="525" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="481.5" y="50" width="70" height="1180" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://e7.pngegg.com/pngimages/997/429/png-clipart-black-traffic-light-illustration-traffic-light-computer-icons-symbol-traffic-light-s-image-file-formats-color.png;" vertex="1" parent="1">
+          <mxGeometry x="676.5" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-34" value="Los estados deben en el visor poder diferenciarse de manera visual (Fácil de identificar). &lt;b&gt;Sin más definición.&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="57.5" y="680" width="619" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="640" as="sourcePoint" />
+            <mxPoint x="50" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="593" y="640" as="sourcePoint" />
+            <mxPoint x="593" y="615" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-37" value="Hasta el momento, lo que se tiene es&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;&amp;nbsp;el modelo integrado de información del territorio con la información de la red&lt;br&gt;del modelo de aguas actualizado&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="253" y="710" width="325" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-38" value="Hasta el momento, se tiene &lt;br&gt;el modelo actualizado, &lt;br&gt;con los diferentes estados, sin embargo, no se tiene en cuenta en el modelo la información de reparaciones por daños o emergencias que tuvieron impacto en el pavimento y son eventos desconocidos.&amp;nbsp;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="13" y="790" width="200" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-39" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="213" y="820" as="sourcePoint" />
+            <mxPoint x="273" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-40" value="Se incluyen las reparaciones a daños por emergencias, que es consolidada desde máximo y/o hidro, &lt;b&gt;que se consolida en Gesta?&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="276" y="800" width="396" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-41" value="&lt;h1&gt;Validar&lt;/h1&gt;&lt;p&gt;&lt;b&gt;Aún no se valida esta información.&lt;/b&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="740" width="107" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-40" target="VaUqc74PP2qwAAMpVHkm-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="563" y="970" as="sourcePoint" />
+            <mxPoint x="613" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.299;exitY=1.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="930" as="sourcePoint" />
+            <mxPoint x="403" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-44" value="&lt;b&gt;Esto se agrega al modelo como una nueva capa.&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="880" width="274" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-44" target="VaUqc74PP2qwAAMpVHkm-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="583" y="930" as="sourcePoint" />
+            <mxPoint x="583" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-46" value="Debe incluir la fecha de atención del evento&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="578" y="860" width="189" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-47" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/2519/2519390.png;" vertex="1" parent="1">
+          <mxGeometry x="13" y="1030" width="102" height="102" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-48" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="560" width="70" height="760" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-49" value="&lt;b&gt;Para este proceso en el visor geográfico, se deben manejar&amp;nbsp; roles, por&amp;nbsp;&lt;i&gt;acuerdos de confidencialidad. Para esto se propone que el municipio tenga usuarios nombrados, lo que pueden ingresar al visor y hacer consultas - Tanto interno y externo.&lt;/i&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="507.25" y="1000" width="295.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-50" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;HU10&lt;br&gt;Cargue de infraestructura en estado de planeación al modelo digital de aguas&amp;nbsp;&lt;/i&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="284.5" y="1180" width="235.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-51" value="Entrada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-52" value="Entrada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1250" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-53" value="&lt;h1&gt;Definición&lt;/h1&gt;&lt;p&gt;Según la historia de usuario, establece que la entrada será un archivo ShapeFile para los elementos en estado de planeación y diseño.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="283" y="1280" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-54" value="&lt;h1&gt;Aclaración!!&lt;/h1&gt;&lt;div&gt;Sin embargo, en el flujo de la HU01, &lt;b&gt;en el ETL que modelo de aguas, viene está información, definir si la información se mueve del MDA o esto será un servicio aparte para las redes que estén en Diseño y Planeación, según la definición del archivo Shapefile&lt;/b&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1280" width="270" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-55" value="Ya sea en formato ShapeFile o la información que se trae del MDA, esta información es sencilla y solo deberá tener el proyecto asociado a la red y la FPO: Fecha probable de operación" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="263" y="1490" width="301" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://blog.bismart.com/hs-fs/hubfs/Imported_Blog_Media/ETL/20190604_imagen2.jpg?width=2777&amp;name=20190604_imagen2.jpg;" vertex="1" parent="1">
+          <mxGeometry x="676.25" y="1260" width="131.5" height="56.87" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.478;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="VaUqc74PP2qwAAMpVHkm-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1430" as="sourcePoint" />
+            <mxPoint x="620" y="1730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-58" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-54" target="VaUqc74PP2qwAAMpVHkm-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1420" as="sourcePoint" />
+            <mxPoint x="417" y="1501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-59" value="La salida será el&amp;nbsp;&lt;i style=&quot;text-align: justify; background-color: initial;&quot;&gt;Modelo&lt;br/&gt;integrado de información del territorio actualizado con la información del los&lt;br/&gt;proyectos de infraestructura en estado planeación&lt;/i&gt;&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="291" y="1630" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-60" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-55" target="VaUqc74PP2qwAAMpVHkm-59">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="1750" as="sourcePoint" />
+            <mxPoint x="790" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-61" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;&lt;br/&gt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;&lt;br/&gt;mso-ansi-language:ES-CO;mso-fareast-language:ES;mso-bidi-font-weight:bold&quot;&gt;&lt;b&gt;El ShapeFile solo se deben suministrar las tuberías, las cuales deberán ser continuas (sin accesorios) para mostrar únicamente el alineamiento de las&lt;br&gt;redes.&lt;/b&gt;&lt;/span&gt;&lt;/i&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1440" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-62" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="1680" as="sourcePoint" />
+            <mxPoint x="610" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-63" value="&lt;h1&gt;Definición&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Si es cargando la información con ShapeFile, sería independiente, si viene en el MDA queda todo integrado&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="618" y="1634" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-64" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://lio.countyofdane.com/documents/Images/ODPortal.jpg;" vertex="1" parent="1">
+          <mxGeometry x="687.82" y="1740" width="108.36" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-65" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;HU03 Carga de información&lt;br/&gt;del modelo digital de Distribución de Gas&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="293" y="2000" width="235.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-66" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;HU04&lt;br&gt;Cargue de información del POT&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="304.5" y="2350" width="235.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-67" value="&lt;h1&gt;Aclaración&lt;/h1&gt;&lt;p&gt;Son capas independientes para el modelo, según cuantos municipios sean. Capas de consulta.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="589" y="2350" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-68" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-66" target="VaUqc74PP2qwAAMpVHkm-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="529" y="2560" as="sourcePoint" />
+            <mxPoint x="579" y="2510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-69" value="¿La información viene en formato ShapeFile?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="2480" width="204" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-70" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="339" y="2620" as="sourcePoint" />
+            <mxPoint x="179" y="2590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="179" y="2520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="678" y="2580" as="sourcePoint" />
+            <mxPoint x="639" y="2590" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="639" y="2520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-72" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="224" y="2490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-73" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2490" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-74" value="Entrada al visor geográfico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="341.5" y="2430" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-75" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-66" target="VaUqc74PP2qwAAMpVHkm-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="439" y="2670" as="sourcePoint" />
+            <mxPoint x="489" y="2620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-74" target="VaUqc74PP2qwAAMpVHkm-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469" y="2680" as="sourcePoint" />
+            <mxPoint x="519" y="2630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-77" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="656" y="2470" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-78" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Se deberá facilitar la incorporación de información de planes de ordenamiento territorial dispuestos por los municipios a través de servicios geográficos&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="404" y="2620" width="252" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-79" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;La propuesta es en una primera fase, usar los servicios de aquellos municipios que dispongan, será una capa.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="681" y="2565" width="122" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-80" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Si el municipio no dispone de servicio geográfico, este suministrará un archivo ShapeFile, y EPM la construcción de su servicio&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="2600" width="262" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-81" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="2680" as="sourcePoint" />
+            <mxPoint x="399" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-82" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="2680" as="sourcePoint" />
+            <mxPoint x="419" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-83" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Información de planes de ordenamiento territorial incorporados al modelo integrado de información territorial y disponibles para su visualización (Como una capa de consulta)&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="2740" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-84" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;HU05&lt;br&gt;Cargue de información de&lt;br/&gt;proyectos de entes territoriales&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="300" y="2850" width="235.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-85" value="&lt;h1&gt;Aclaración&lt;/h1&gt;&lt;p&gt;Son capas independientes para el modelo, según cuantos municipios sean. Capas de consulta&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="584.5" y="2850" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-86" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-84" target="VaUqc74PP2qwAAMpVHkm-85">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524.5" y="3060" as="sourcePoint" />
+            <mxPoint x="574.5" y="3010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-87" value="¿La información viene en formato ShapeFile?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="2980" width="204" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="334.5" y="3120" as="sourcePoint" />
+            <mxPoint x="174.5" y="3090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="174.5" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-89" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="673.5" y="3080" as="sourcePoint" />
+            <mxPoint x="634.5" y="3090" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="634.5" y="3020" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-90" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="219.5" y="2990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-91" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="535.5" y="2990" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-92" value="Entrada al visor geográfico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="337" y="2930" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-93" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-84" target="VaUqc74PP2qwAAMpVHkm-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.5" y="3170" as="sourcePoint" />
+            <mxPoint x="484.5" y="3120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-94" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-92" target="VaUqc74PP2qwAAMpVHkm-87">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="464.5" y="3180" as="sourcePoint" />
+            <mxPoint x="514.5" y="3130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-95" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="651.5" y="2970" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-96" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Información de proyectos disponible mediante servicios geográficos de cada municipio&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="408" y="3100" width="252" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-97" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;La propuesta es en una primera fase, usar los servicios de aquellos municipios que dispongan, será una capa.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="682.5" y="3070" width="122" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-98" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Se deberá facilitar la incorporación de información de proyectos de los municipios&lt;br&gt;a la nueva solución, dispuestos por los municipios a través de servicios geográficos&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="25.5" y="3100" width="262" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-99" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-98">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="414.5" y="3290" as="sourcePoint" />
+            <mxPoint x="394.5" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-100" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="364.5" y="3330" as="sourcePoint" />
+            <mxPoint x="414.5" y="3230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-101" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Información de proyectos de infraestructura de los municipios incorporados al modelo&lt;br&gt;integrado de información territorial para su visualización&lt;/i&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="265.5" y="3240" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-102" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;Para la construcción de ese servicio, no se piensa en una tarea automática, más bien en la construcción de una herramienta o por Soporte.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="2650" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-103" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;Para la construcción de ese servicio, no se piensa en una tarea automática, más bien en la construcción de una herramienta o por Soporte.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="88" y="3180" width="122" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-104" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;HU06&lt;br&gt;Cargue de información de&lt;br/&gt;intervenciones a la malla vial&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="302" y="3520" width="235.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-105" value="&lt;h1&gt;Aclaración&lt;/h1&gt;&lt;p&gt;Son capas independientes para el modelo, según cuantos municipios sean. Capas de consulta&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="586.5" y="3520" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-106" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-104" target="VaUqc74PP2qwAAMpVHkm-105">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="526.5" y="3730" as="sourcePoint" />
+            <mxPoint x="576.5" y="3680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-107" value="¿La información viene en formato ShapeFile?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="3650" width="204" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-108" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="336.5" y="3790" as="sourcePoint" />
+            <mxPoint x="176.5" y="3760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="176.5" y="3690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-109" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="675.5" y="3750" as="sourcePoint" />
+            <mxPoint x="636.5" y="3760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="636.5" y="3690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-110" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="221.5" y="3660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-111" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="3660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-112" value="Entrada al visor geográfico" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="339" y="3600" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-113" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-104" target="VaUqc74PP2qwAAMpVHkm-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="436.5" y="3840" as="sourcePoint" />
+            <mxPoint x="486.5" y="3790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-114" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.461;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-112" target="VaUqc74PP2qwAAMpVHkm-107">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="466.5" y="3850" as="sourcePoint" />
+            <mxPoint x="516.5" y="3800" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-115" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="653.5" y="3640" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-116" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Se deberá facilitar la incorporación de información de trabajos o intervenciones menores a la malla vial, dispuestos por los municipios a través de servicios&lt;br&gt;geográficos&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="406.5" y="3780" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-117" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;&lt;i&gt;Más enfocado a Medellín, Medellín recopila información donde se hace&lt;br/&gt;intervenciones de la malla vial (Lo hacen a nivel geográfico).&amp;nbsp;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="684.5" y="3740" width="131" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-118" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Se deberá facilitar la incorporación&amp;nbsp;&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;de trabajos o intervenciones menores a la malla vial dispuestos por los municipios a través&lt;br&gt;de servicios geográficos&lt;/i&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="3770" width="262" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-119" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-118">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416.5" y="3960" as="sourcePoint" />
+            <mxPoint x="396.5" y="3900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-120" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-116">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="545.5" y="3830" as="sourcePoint" />
+            <mxPoint x="416.5" y="3900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-121" value="&lt;p style=&quot;text-align:justify&quot; class=&quot;MsoNormal&quot;&gt;&lt;i&gt;Información de trabajos o intervenciones menores a la malla vial incorporados al modelo integrado de&lt;br&gt;información territorial y disponibles para su visualización&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="3910" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-122" value="&lt;h1&gt;Propuesta&lt;/h1&gt;&lt;p&gt;Para la construcción de ese servicio, no se piensa en una tarea automática, más bien en la construcción de una herramienta o por Soporte.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="85.5" y="3840" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-123" value="&lt;p style=&quot;&quot; class=&quot;MsoNormal&quot;&gt;HU09&lt;br&gt;Consulta para visualización de la información del territorio-municipio: redes de servicios públicos, POT, proyectos y fechas estimadas de ejecución&lt;i&gt;&lt;/i&gt;&lt;br&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="4690" width="360" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-124" value="Widget de Consulta, las funcionalidades de consulta serán:" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="286.5" y="4793" width="204" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-125" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-123" target="VaUqc74PP2qwAAMpVHkm-124">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="405.5" y="5010" as="sourcePoint" />
+            <mxPoint x="455.5" y="4960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-126" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://i.ytimg.com/vi/EHQRx41FlOs/maxresdefault.jpg;clipPath=inset(35.21% 31.33% 20.41% 36.67%);" vertex="1" parent="1">
+          <mxGeometry x="14.799999999999997" y="4903" width="102.4" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-127" value="&lt;h1&gt;Área definida por el usuario&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El usuario tendrá la posibilidad de dibujar un polígono a mano alzada o a partir de una geometría (Círculo, Cuadrado, Rectangulo, etc)&amp;nbsp; de la zona de interés de consulta&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="138.5" y="4873" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-128" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/29/29165.png;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="4843" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-129" value="&lt;h1&gt;Consulta Alfanumérica&lt;/h1&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El usuario podrá realizar la consulta a partir de campos del modelo, (Departamento, Municipio, Ipid y/o fid del elemento de red, entre otros &lt;font color=&quot;#ff3333&quot;&gt;(Por definir)&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="514.5" y="4863" width="190" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-130" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-124" target="VaUqc74PP2qwAAMpVHkm-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="444.5" y="5163" as="sourcePoint" />
+            <mxPoint x="494.5" y="5113" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-131" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-124" target="VaUqc74PP2qwAAMpVHkm-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="568.5" y="5083" as="sourcePoint" />
+            <mxPoint x="584.5" y="4813" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-132" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="434.5" y="5173" as="sourcePoint" />
+            <mxPoint x="324.5" y="5123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-133" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-129">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="584.5" y="5233" as="sourcePoint" />
+            <mxPoint x="464.5" y="5123" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-134" value="Consulta al&amp;nbsp;&lt;i&gt;modelo&lt;br/&gt;integrado de información geográfica del territorio donde EPM casa matriz opere&lt;/i&gt;&lt;br&gt;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323" y="5133" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-135" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="504.5" y="5363" as="sourcePoint" />
+            <mxPoint x="405.5" y="5273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-136" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="6.5" y="5395" width="378" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-137" value="Visualizar la información de &lt;br&gt;infraestructura de manera integrada&amp;nbsp;&lt;br&gt;(Acueducto, Alcantarillado, gas y distribución &lt;br&gt;de energía, POT, Intervenciones de la malla vial y proyectos)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VaUqc74PP2qwAAMpVHkm-136">
+          <mxGeometry x="3.5" y="-2" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-138" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.335;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-137">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="468" y="5623" as="sourcePoint" />
+            <mxPoint x="128.5" y="5513" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-139" value="Se espera que a partir de los parámetros de consulta o por consulta espacial, la solución haga un barrido de todas las capas del modelo integrado del territorio y muestre los resultados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="8.5" y="5513" width="307" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-140" value="Para esto, se requiere usar una simbología adecuada de todas las redes, proyectos e intervenciones, que facilite la identificación visual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208.5" y="5653" width="460" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-141" value="¿Requiere visualizar de manera conjunta la información integrada del territorio?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="261.25" y="5275" width="291" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-142" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="164.5" y="5483" as="sourcePoint" />
+            <mxPoint x="124.5" y="5393" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="124.5" y="5324" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-143" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-141">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="775" y="5323" as="sourcePoint" />
+            <mxPoint x="694.5" y="5392" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="694.5" y="5323" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-144" value="Si" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160.5" y="5293" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-145" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="579.5" y="5293" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-146" value="&lt;i&gt;&lt;span style=&quot;font-size:10.0pt;font-family:&amp;quot;Arial&amp;quot;,sans-serif;&lt;br/&gt;mso-fareast-font-family:&amp;quot;Arial Unicode MS&amp;quot;;mso-ansi-language:ES-CO;mso-fareast-language:&lt;br/&gt;ES;mso-bidi-language:AR-SA;mso-bidi-font-weight:bold&quot;&gt;Para planes y proyectos ofrecer la facilidad de visualización por colores de acuerdo con la fecha de ejecución estimada, p.e: inferior a 3 años color rojo, entre 3y 6 años: amarillo, mayores a 6 años verde &lt;font color=&quot;#ff3333&quot;&gt;(Por definir)&lt;/font&gt;&lt;/span&gt;&lt;/i&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="203.5" y="5703" width="470" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-147" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="5395" width="323.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-148" value="El sistema permite que el usuario, seleccione ya se &lt;br&gt;una o más capas de interés para el resultado&lt;br&gt;&amp;nbsp;por el parámetro de consulta o por consulta espacial" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VaUqc74PP2qwAAMpVHkm-147">
+          <mxGeometry x="11" y="4" width="310" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-149" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.335;exitY=1.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.5" y="5463" as="sourcePoint" />
+            <mxPoint x="610.5" y="5511" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-150" value="Se espera que a partir de los parámetros de consulta o por consulta espacial y las capas seleccionadas de interés, la solución haga un barrido de las capas seleccionadas&amp;nbsp; del modelo integrado del territorio y muestre los resultados" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490.5" y="5511" width="307" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-151" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-139" target="VaUqc74PP2qwAAMpVHkm-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="174.5" y="5793" as="sourcePoint" />
+            <mxPoint x="224.5" y="5743" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-152" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-150" target="VaUqc74PP2qwAAMpVHkm-140">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615.5" y="5603" as="sourcePoint" />
+            <mxPoint x="891.5" y="5683" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-153" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.unite.ai/wp-content/uploads/2023/01/etl-1-990x600.png;" vertex="1" parent="1">
+          <mxGeometry x="306" y="989" width="132" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-154" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="248" y="1019" as="sourcePoint" />
+            <mxPoint x="338" y="1019" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-155" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="408" y="1019" as="sourcePoint" />
+            <mxPoint x="498" y="1019" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-156" value="Entrada" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192" y="1014" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-157" value="Esto será otro ETL, para estar sincronizando la información de daños o emergencias que tuvieron impacto en el pavimento, desde GESTA. (Esto será una capa aparte al modelo de consulta) - &lt;b&gt;Por definir periodo de sincronización&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="141.5" y="1090" width="341" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-158" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.fs.usda.gov/wwetac/images/updated/SHP.jpg;" vertex="1" parent="1">
+          <mxGeometry x="146.18" y="1280" width="107.63" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-159" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.fs.usda.gov/wwetac/images/updated/SHP.jpg;" vertex="1" parent="1">
+          <mxGeometry x="65.69" y="2430" width="107.63" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-160" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.fs.usda.gov/wwetac/images/updated/SHP.jpg;" vertex="1" parent="1">
+          <mxGeometry x="58.870000000000005" y="2940" width="107.63" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-161" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.fs.usda.gov/wwetac/images/updated/SHP.jpg;" vertex="1" parent="1">
+          <mxGeometry x="62.37" y="3625" width="107.63" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-162" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-34" target="VaUqc74PP2qwAAMpVHkm-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-164" value="&lt;h1&gt;Propuesto modificar&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de intervención que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="521" y="506" width="189" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-165" value="&lt;h1&gt;Propuesto retirar&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de intervención que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="704.5" y="502" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-166" value="&lt;h1&gt;Retirado&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de retiro que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="859" y="508" width="170" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-167" value="&lt;h1&gt;Fuera de servicio&lt;/h1&gt;&lt;div&gt;Se propone utilizar la fecha de retiro que viene en el MDA&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1029" y="506" width="209" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-169" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-164">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="548.5" y="425" as="sourcePoint" />
+            <mxPoint x="511.5" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-170" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=0.868;exitY=0.973;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="678.5" y="455" as="sourcePoint" />
+            <mxPoint x="741.5" y="495" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-171" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="413" as="sourcePoint" />
+            <mxPoint x="915" y="485" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-172" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.368;entryY=-0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="VaUqc74PP2qwAAMpVHkm-21" target="VaUqc74PP2qwAAMpVHkm-167">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="639.5" y="430" as="sourcePoint" />
+            <mxPoint x="1039.5" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-174" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264.07" y="639" as="sourcePoint" />
+            <mxPoint x="264.07" y="614" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-175" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="431.07" y="641" as="sourcePoint" />
+            <mxPoint x="431.07" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-176" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="641" as="sourcePoint" />
+            <mxPoint x="790" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VaUqc74PP2qwAAMpVHkm-178" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="943.76" y="641" as="sourcePoint" />
+            <mxPoint x="943.76" y="616" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
